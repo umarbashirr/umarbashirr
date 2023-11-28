@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Bashir Rather</h1>
-<h3 align="center">A passionate frontend developer from Jammu and Kashmir India</h3>
+<h3 align="center">A passionate software developer from Jammu and Kashmir India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarbashirr&label=Profile%20views&color=0e75b6&style=flat" alt="umarbashirr" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/codewithumar" target="blank"><img src="https://img.shields.io/twitter/follow/codewithumar?logo=twitter&style=for-the-badge" alt="codewithumar" /></a> </p>
 
-- 🔭 I’m currently working on [Cool Tech Design](https://cooltechdesign.com)
+- 🔭 I’m currently working with [Bloom Hotel Group](https://staybloom.com)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Nest Js**
 
 - 👨‍💻 All of my projects are available at [https://cooltechdesign.com](https://cooltechdesign.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React basics**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, NextJS, Angular, NestJS, TypeScript**
 
 - 📫 How to reach me **umarbashir601@gmail.com**
 
